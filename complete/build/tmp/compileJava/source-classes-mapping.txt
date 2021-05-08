@@ -1,5 +1,5 @@
-hello/WebAppController.java
- hello.WebAppController
 hello/PubSubApplication.java
  hello.PubSubApplication
  hello.PubSubApplication$PubsubOutboundGateway
+hello/WebAppController.java
+ hello.WebAppController

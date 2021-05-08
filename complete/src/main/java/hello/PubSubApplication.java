@@ -52,6 +52,7 @@ public class PubSubApplication {
 
 	return adapter;
   }
+
   // end::messageChannelAdapter[]
 
   // tag::messageReceiver[]
